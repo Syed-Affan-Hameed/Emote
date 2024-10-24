@@ -3,7 +3,7 @@
 // - messages: An array of message objects with content, sender, and message type.
 // - users: An array of user objects with personal information and online status.
 // This data is used for development and testing purposes.
-    
+
 export const conversations = [
 	{
 		_id: "1",
@@ -31,7 +31,7 @@ export const conversations = [
 		lastMessage: {
 			_id: "2",
 			messageType: "text",
-			content: "Hey there!",
+			content: "Hey there!bro how are you need to start building AI applications to ge the AI Engineering Role.",
 			sender: "user2",
 		},
 		sender: "user4",
